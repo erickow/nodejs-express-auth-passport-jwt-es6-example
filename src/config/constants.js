@@ -1,12 +1,12 @@
 const devConfig = {
-  MONGO_URL: 'mongodb://localhost/opreker-dev',
+  MONGO_URL: 'mongodb://localhost/db-dev',
   JWT_SECRET: 'thisisasecret',
 };
 const testConfig = {
-  MONGO_URL: 'mongodb://localhost/opreker-test',
+  MONGO_URL: 'mongodb://localhost/db-test',
 };
 const prodConfig = {
-  MONGO_URL: 'mongodb://localhost/opreker-prod',
+  MONGO_URL: 'mongodb://localhost/db-prod',
 };
 const defaultConfig = {
   PORT: process.env.PORT || 3000,
