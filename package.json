@@ -17,7 +17,7 @@
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
     "express-validation": "^1.0.2",
-    "helmet": "^3.15.0",
+    "helmet": "^3.21.1",
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.4.0",
     "mongoose": "^5.4.4",
